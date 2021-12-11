@@ -26,3 +26,11 @@ CSRF_SESSION_KEY = "secret"
 
 # Secret key for signing cookies
 SECRET_KEY = "secret"
+
+base_url = "https://www.coindesk.com/data/"
+webdriver_path = "chromedriver\\chromedriver.exe"
+timeout_delay = 10
+
+EMAIL_SUBJECT = 'Your hourly crypto price updates are here!!'
+BOT_EMAIL = 'alertbot0211@gmail.com'
+BOT_PASSWORD = '******'
