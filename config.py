@@ -34,3 +34,5 @@ timeout_delay = 10
 EMAIL_SUBJECT = 'Your hourly crypto price updates are here!!'
 BOT_EMAIL = 'alertbot0211@gmail.com'
 BOT_PASSWORD = '******'
+# Frequency of email alerts in minutes
+ALERT_FREQUENCY = 1
