@@ -20,3 +20,4 @@ Sign up to receive updates on popular Crypto prices directly on your email
 * Install Requirements: pip install -r requirements.txt
 * Run the Flask Server: python run.py
 * Add & Remove users by visiting the localhost url
+* For testing and running the selenium price scraper independently run: python price_scraper.py
